@@ -13,25 +13,25 @@
   - push/pull
   - usage models - fork/pull request vs shared push
 
-### 1. Exploring history
+### 2. Exploring history
   - log
   - blame
   - git grep
 
-### 1. Branching, merging
+### 3. Branching, merging
   - local v/s remote branches
   - merging, dealing with conflicts
   - remotes
   - cherry-picking
 
-### 1. Rolling back
+### 4. Rolling back
   - reset
     - soft/hard/mixed
   - revert
   - commit --amend
   - note on 'Already publicised trees'
 
-### 1. Contributing back
+### 5. Contributing back
   - github fork + pull request
   - format-patch + am
   - shared repo - review branches
@@ -39,7 +39,7 @@
     - tags
     - archive
 
-### 1. User Interface
+### 6. User Interface
   - alias
   - config (--global)
   - coloring
@@ -48,7 +48,7 @@
   - git + bash - PS1
   - git + vim - fugitive
 
-### 1. Advanced Usage: Interactive adding
-### 1. Advanced Usage: Interactive rebase
-### 1. Advanced Usage: Bisect
-### 1. Advanced Usage: Submodule
+### 7. Advanced Usage: Interactive adding
+### 8. Advanced Usage: Interactive rebase
+### 9. Advanced Usage: Bisect
+### 10. Advanced Usage: Submodule
