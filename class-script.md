@@ -28,6 +28,7 @@
   - reset
     - soft/hard/mixed
   - revert
+  - resetting changes by file (checkout)
   - commit --amend
   - note on 'Already publicised trees'
 
