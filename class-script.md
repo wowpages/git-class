@@ -21,6 +21,8 @@
 ### 3. Branching, merging
   - local v/s remote branches
   - merging, dealing with conflicts
+    - --squash
+    - --no-commit
   - remotes
   - cherry-picking
 
@@ -30,7 +32,7 @@
   - revert
   - resetting changes by file (checkout)
   - commit --amend
-  - note on 'Already publicised trees'
+  - note on 'Already publicised commits'
 
 ### 5. Contributing back
   - github fork + pull request
