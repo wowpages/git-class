@@ -25,6 +25,7 @@
     - --no-commit
   - remotes
   - cherry-picking
+  - stash
 
 ### 4. Rolling back
   - reset
